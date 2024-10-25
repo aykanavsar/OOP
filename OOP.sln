@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Praitik4.1", "Praitik4.1\Praitik4.1.csproj", "{7BBA173E-23A3-44AF-BD98-474B77CFBBCF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pratik 4.2 Constructor", "Pratik 4.2 Constructor\Pratik 4.2 Constructor.csproj", "{3C97D7F4-90DF-40AE-84DB-282B8A9FAD3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{7BBA173E-23A3-44AF-BD98-474B77CFBBCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7BBA173E-23A3-44AF-BD98-474B77CFBBCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7BBA173E-23A3-44AF-BD98-474B77CFBBCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C97D7F4-90DF-40AE-84DB-282B8A9FAD3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C97D7F4-90DF-40AE-84DB-282B8A9FAD3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C97D7F4-90DF-40AE-84DB-282B8A9FAD3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C97D7F4-90DF-40AE-84DB-282B8A9FAD3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
