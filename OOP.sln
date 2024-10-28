@@ -19,6 +19,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pratik 4. Encapsulation", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pratik 4.4 Encapsulation", "Pratick 4.4 Encapsulation\Pratik 4.4 Encapsulation.csproj", "{C2444A88-5D51-49EF-89C5-16DAB4E8EDE4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inhertiance", "Inhertiance\Inhertiance.csproj", "{AF4A4815-2E34-4BDC-B203-4941A84365BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{C2444A88-5D51-49EF-89C5-16DAB4E8EDE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2444A88-5D51-49EF-89C5-16DAB4E8EDE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2444A88-5D51-49EF-89C5-16DAB4E8EDE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF4A4815-2E34-4BDC-B203-4941A84365BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF4A4815-2E34-4BDC-B203-4941A84365BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF4A4815-2E34-4BDC-B203-4941A84365BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF4A4815-2E34-4BDC-B203-4941A84365BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
