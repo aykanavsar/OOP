@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pratik 4.4 Encapsulation", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inhertiance", "Inhertiance\Inhertiance.csproj", "{AF4A4815-2E34-4BDC-B203-4941A84365BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{5C77CD90-1591-4FD8-AC8C-327C0FFCAB5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{AF4A4815-2E34-4BDC-B203-4941A84365BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF4A4815-2E34-4BDC-B203-4941A84365BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF4A4815-2E34-4BDC-B203-4941A84365BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C77CD90-1591-4FD8-AC8C-327C0FFCAB5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C77CD90-1591-4FD8-AC8C-327C0FFCAB5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C77CD90-1591-4FD8-AC8C-327C0FFCAB5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C77CD90-1591-4FD8-AC8C-327C0FFCAB5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
