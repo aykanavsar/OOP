@@ -11,9 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Praitik4.1", "Praitik4.1\Praitik4.1.csproj", "{7BBA173E-23A3-44AF-BD98-474B77CFBBCF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pratik 4.2 Constructor", "Pratik 4.2 Constructor\Pratik 4.2 Constructor.csproj", "{3C97D7F4-90DF-40AE-84DB-282B8A9FAD3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pratik 4.2 Constructor", "Pratik 4.2 Constructor\Pratik 4.2 Constructor.csproj", "{3C97D7F4-90DF-40AE-84DB-282B8A9FAD3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pratik 4.3 Kutuphane", "Pratik 4.3 Kutuphane\Pratik 4.3 Kutuphane.csproj", "{D919BE65-6F75-4DA5-A8B6-394FAB0CD539}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pratik 4.3 Kutuphane", "Pratik 4.3 Kutuphane\Pratik 4.3 Kutuphane.csproj", "{D919BE65-6F75-4DA5-A8B6-394FAB0CD539}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pratik 4. Encapsulation", "Pratik 4.4 Encapsulation\Pratik 4. Encapsulation.csproj", "{B22D72F9-D4D5-493E-8FA8-9B2AE6A3470C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pratik 4.4 Encapsulation", "Pratick 4.4 Encapsulation\Pratik 4.4 Encapsulation.csproj", "{C2444A88-5D51-49EF-89C5-16DAB4E8EDE4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{D919BE65-6F75-4DA5-A8B6-394FAB0CD539}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D919BE65-6F75-4DA5-A8B6-394FAB0CD539}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D919BE65-6F75-4DA5-A8B6-394FAB0CD539}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B22D72F9-D4D5-493E-8FA8-9B2AE6A3470C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B22D72F9-D4D5-493E-8FA8-9B2AE6A3470C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B22D72F9-D4D5-493E-8FA8-9B2AE6A3470C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B22D72F9-D4D5-493E-8FA8-9B2AE6A3470C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2444A88-5D51-49EF-89C5-16DAB4E8EDE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2444A88-5D51-49EF-89C5-16DAB4E8EDE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2444A88-5D51-49EF-89C5-16DAB4E8EDE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2444A88-5D51-49EF-89C5-16DAB4E8EDE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
