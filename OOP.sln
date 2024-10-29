@@ -17,13 +17,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pratik 4.3 Kutuphane", "Pra
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pratik 4. Encapsulation", "Pratik 4.4 Encapsulation\Pratik 4. Encapsulation.csproj", "{B22D72F9-D4D5-493E-8FA8-9B2AE6A3470C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pratik 4.4 Encapsulation", "Pratick 4.4 Encapsulation\Pratik 4.4 Encapsulation.csproj", "{C2444A88-5D51-49EF-89C5-16DAB4E8EDE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pratik 4.4 Encapsulation", "Pratick 4.4 Encapsulation\Pratik 4.4 Encapsulation.csproj", "{C2444A88-5D51-49EF-89C5-16DAB4E8EDE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inhertiance", "Inhertiance\Inhertiance.csproj", "{AF4A4815-2E34-4BDC-B203-4941A84365BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inhertiance", "Inhertiance\Inhertiance.csproj", "{AF4A4815-2E34-4BDC-B203-4941A84365BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{5C77CD90-1591-4FD8-AC8C-327C0FFCAB5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{5C77CD90-1591-4FD8-AC8C-327C0FFCAB5D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pratik 4.10 Abstraction", "Pratik 4.10 Abstraction\Pratik 4.10 Abstraction.csproj", "{771E18FB-944F-4DE2-B349-5B34A65500F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pratik 4.10 Abstraction", "Pratik 4.10 Abstraction\Pratik 4.10 Abstraction.csproj", "{771E18FB-944F-4DE2-B349-5B34A65500F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kapanıs 4. Hafta", "Kapanıs 4. Hafta\Kapanıs 4. Hafta.csproj", "{D0C7752A-AAAD-42C9-B9A8-6687F848DFAE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{771E18FB-944F-4DE2-B349-5B34A65500F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{771E18FB-944F-4DE2-B349-5B34A65500F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{771E18FB-944F-4DE2-B349-5B34A65500F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0C7752A-AAAD-42C9-B9A8-6687F848DFAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0C7752A-AAAD-42C9-B9A8-6687F848DFAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0C7752A-AAAD-42C9-B9A8-6687F848DFAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0C7752A-AAAD-42C9-B9A8-6687F848DFAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
